@@ -1,0 +1,1 @@
+{ "parent": "minecraft:block/cube_bottom_top", "textures": { "bottom": "bateriamod:block/bateria_side", "top": "bateriamod:block/bateria_top", "side": "bateriamod:block/bateria_side" } }

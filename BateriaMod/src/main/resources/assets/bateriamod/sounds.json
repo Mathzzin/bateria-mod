@@ -1,0 +1,42 @@
+{
+  "kick": {
+    "sounds": [
+      {
+        "name": "bateriamod:kick",
+        "stream": false
+      }
+    ]
+  },
+  "snare": {
+    "sounds": [
+      {
+        "name": "bateriamod:snare",
+        "stream": false
+      }
+    ]
+  },
+  "hihat": {
+    "sounds": [
+      {
+        "name": "bateriamod:hihat",
+        "stream": false
+      }
+    ]
+  },
+  "tom": {
+    "sounds": [
+      {
+        "name": "bateriamod:tom",
+        "stream": false
+      }
+    ]
+  },
+  "crash": {
+    "sounds": [
+      {
+        "name": "bateriamod:crash",
+        "stream": false
+      }
+    ]
+  }
+}
